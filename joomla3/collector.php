@@ -13,7 +13,7 @@ class Collector {
     private $cachePath = null;
 
     public function __construct() {
-        $this->cachePath = JPATH_SITE . '/cache/com_ivejo/competitions/';
+        $this->cachePath = JPATH_SITE . '/cache/hapodi/competitions/';
     }
 
     public function collectRanking($competitionId) {
