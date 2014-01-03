@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content">
+	<name>plg_content_hapodi</name>
+	<author>Paul de Raaij</author>
+	<creationDate>January 2014</creationDate>
+	<copyright>Copyright (C) 2014 Open Source Matters. All rights reserved.</copyright>
+	<license>MIT License</license>
+	<authorEmail>paul@paulderaaij.nl</authorEmail>
+	<authorUrl>www.paulderaaij.nl</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_CONTENT_HAPODI_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="hadopi">hapodi</filename>
+		<filename>index.html</filename>
+	</files>
+	<languages>
+		<language tag="nl-NL">nl-NL.plg_content_hapodi.ini</language>
+	</languages>
+</extension>
